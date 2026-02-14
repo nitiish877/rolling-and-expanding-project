@@ -1,0 +1,70 @@
+Q1️⃣
+Daily revenue nikaalo aur:
+missing dates ko 0 se fill karo
+output continuous daily series ho
+
+Q2️⃣
+Monthly revenue nikaalo aur:
+Month-on-Month (% change) calculate karo
+🟡 LEVEL 2 — Rolling (Recent behavior)
+
+Q3️⃣
+Har din ke liye:
+last 7 days ka rolling average revenue
+last 30 days ka rolling average revenue
+
+Q4️⃣
+Last 4 hours me:
+kitne orders aaye
+Last 4 hours me:
+kitne orders aaye
+total revenue kya tha
+
+Q5️⃣
+Start se ab tak:
+cumulative revenue 
+cumulative order count
+Start se ab tak:
+cumulative failure rate calculate karo
+alert lagao jab rate 25% se upar jaye
+
+Q7️⃣
+Har category ke liye:
+monthly revenue
+uska 3-month rolling average
+Har customer ke liye:
+cumulative spend (CLV basic)
+last 7 days ka rolling spend
+
+Q9️⃣
+Define suspicious activity as:
+last 4 hours me ≥ 2 orders
+AND revenue > customer ke average se 2× zyada
+
+Q🔟
+System health check:
+daily failure rate
+7-day rolling average failure rate
+alert jab rolling failure rate > 30%
+
+🧠 BONUS (Interview Killer)
+Q11️⃣
+
+Same output generate karo:
+once using resample
+
+once using pd.Grouper
+
+🎯 Expectation:
+
+explanation kyon dono same hain
+
+Q12️⃣
+
+Explain in comments (very important):
+
+kahan rolling use kiya
+
+kahan expanding
+
+kyon resample better tha

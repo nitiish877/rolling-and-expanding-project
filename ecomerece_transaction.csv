@@ -1,0 +1,16 @@
+order_id,customer_id,gender,city,category,product,order_date,order_hour,quantity,price,payment_method,order_status
+1001,C001,M,Delhi,Electronics,Mobile,2025-01-01,10,1,15000,UPI,Completed
+1002,C002,F,Mumbai,Fashion,Shoes,2025-01-01,21,2,3000,Card,Completed
+1003,C001,M,Delhi,Electronics,Earbuds,2025-01-02,23,1,2000,UPI,Completed
+1004,C003,M,Bangalore,Grocery,Rice,2025-01-02,9,5,250,Cash,Completed
+1005,C004,F,Delhi,Fashion,Dress,2025-01-03,22,1,4000,Card,Failed
+1006,C002,F,Mumbai,Electronics,Laptop,2025-01-03,11,1,55000,Card,Completed
+1007,C005,M,Pune,Grocery,Oil,2025-01-03,20,2,900,UPI,Completed
+1008,C003,M,Bangalore,Electronics,Tablet,2025-01-04,8,1,18000,UPI,Completed
+1009,C001,M,Delhi,Fashion,Jacket,2025-01-04,23,1,6000,UPI,Completed
+1010,C006,F,Delhi,Grocery,Vegetables,2025-01-04,7,3,300,Cash,Completed
+1011,C004,F,Delhi,Electronics,Smartwatch,2025-01-05,22,1,12000,Card,Completed
+1012,C005,M,Pune,Fashion,T-Shirt,2025-01-05,14,3,1500,UPI,Completed
+1013,C002,F,Mumbai,Grocery,Fruits,2025-01-05,6,4,500,Cash,Completed
+1014,C001,M,Delhi,Electronics,Mobile,2025-01-06,23,1,15000,UPI,Completed
+1015,C006,F,Delhi,Fashion,Jeans,2025-01-06,20,2,5000,Card,Completed
